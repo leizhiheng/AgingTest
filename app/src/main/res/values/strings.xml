@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">AgingTest</string>
+
+    <string name="label_video_test">VideoTest</string>
+    <string name="label_mic_test">MicTest</string>
+    <string name="label_led_test">LedTest</string>
+    <string name="label_ringtone_test">RingtoneTest</string>
+    <string name="label_camera_test">CameraTest</string>
+    <string name="label_wrfile_test">WRFileTest</string>
+
+    <string name="button_open_apps">打开所有App</string>
+    <string name="button_start_test">点击开始测试</string>
+    <string name="button_stop_test">点击停止测试</string>
+    <string name="button_testing">测试中...</string>
+    <string name="clear_test_record">清除测试记录</string>
+    <string name="recovery_factory_settings">恢复出厂设置</string>
+    <string name="test_round_set_notice">请设置测试轮数，每轮测试时间为10.5分钟。</string>
+    <string name="item_test_time">时间：%1$s秒钟</string>
+    <string name="modify_test_time">修改</string>
+    <string name="test_notice">最短测试时间:%1$s小时,最长测试时间：%2$s小时</string>
+    <string name="record_button_name">开始</string>
+    <string name="stop_button_name">停止</string>
+    <string name="soundrecord_test_notice">Mic测试:自动录音%1$s秒钟,然后播放录音%2$s秒钟。</string>
+    <string name="ringtone_test_notice">铃声测试：播放铃声,并震动。</string>
+    <string name="play_button_name">播放</string>
+</resources>
